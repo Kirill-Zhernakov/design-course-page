@@ -1,1 +1,1 @@
-# design-course-page
+index.html contains the styles in the head tag. Using inline styles. Using bootstrap3 elements.
